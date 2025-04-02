@@ -17,15 +17,15 @@ print(f'O resultado de B - A / B é: {round(B - A / B)}') #round arredonda o val
 
 print(f'O resultado de A / B - A * B é :{round(A / B - A * B)}')
 
-print(10 + A % B)
+print(f'O resultado de 10 + A % B é: {10 + A % B}')
 
-print(10 - B // A)
+print(f'O resultado de 10 - B // A é:  {10 - B // A}')
 
-print(B // A - 50)
+print(f'O resultado de B // A - 50 é: {B // A - 50}')
 
-print( A + B % A  + A // B * 2)
+print(f'O resultado de A + B % A + A // B * 2 é: {A + B % A  + A // B * 2}')
 
-print(A * (B + A) - (A - B) / 2)
+print(f'O resultado de A * (B + A) - (A - B) / 2 é: {A * (B + A) - (A - B) / 2}')
 
 print('Próximo exercício ')
 # B. Considere as variáveis com os valores X = True e Y = False e calcule as seguintes expressões:
