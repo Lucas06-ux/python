@@ -9,7 +9,7 @@ while varSaida:
 
     opcao = int(input("Digite a opção desejada entre 1 e 5..."))
 
-    if opcao >= 1 and opcao <= 5
+    if opcao >= 1 and opcao <= 5:
         if opcao == 5:
             print(f'Obrigado por usar nosso programa! ')
             varSaida = False
